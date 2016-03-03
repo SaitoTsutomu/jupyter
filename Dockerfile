@@ -1,4 +1,4 @@
-FROM tsutomu7/scientific-python-3.5
+FROM tsutomu7/scientific-python
 
 EXPOSE 8888
 VOLUME ["/jupyter"]
