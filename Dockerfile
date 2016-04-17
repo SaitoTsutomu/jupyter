@@ -3,8 +3,7 @@ FROM tsutomu7/scientific-python
 ENV USER=jupyter
 RUN export uid=1000 gid=1000 pswd=jupyter && \
     apt-get update --fix-missing && \
-    apt-get install -y --no-install-recommends sudo busybox && \
-    /bin/busybox --install && \
+    apt-get install -y --no-install-recommends sudo && \
     apt-get clean && \
     groupadd -g $gid $USER && \
     useradd -g $USER -G sudo -m -s /bin/bash $USER && \
