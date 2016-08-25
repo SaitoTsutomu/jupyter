@@ -2,7 +2,7 @@ Jupyter(IPython Notebook) by python3.5 and scientific packages. [![](https://bad
 ======
 
 - Japanese font installed. (Use "plt.rcParams['font.family'] = 'IPAexGothic'")
-- 118 packages are installed.
+- 121 packages are installed.
 
 package|ver|package|ver|package|ver
 :--|:--|:--|:--|:--|:--
@@ -18,7 +18,8 @@ hdf5|1.8.17|heapdict|1.0.0|ipykernel|4.4.1
 **ipython**|**5.1.0**|ipython_genutils|0.1.0|ipywidgets|4.1.1
 itsdangerous|0.24|jinja2|2.8|jsonschema|2.5.1
 **jupyter**|**1.0.0**|jupyter_client|4.3.0|jupyter_console|5.0.0
-jupyter_core|4.1.1|libffi|3.2.1|libgcc|5.2.0
+jupyter_contrib_core|0.3.0|jupyter_contrib_nbextensions|0.1.0|jupyter_core|4.1.1
+jupyter_nbextensions_configurator|0.2.1|libffi|3.2.1|libgcc|5.2.0
 libgfortran|3.0.0|libpng|1.6.22|libsodium|1.0.10
 libxml2|2.9.2|llvmlite|0.12.1|locket|0.2.0
 markdown|2.6.6|markupsafe|0.23|**matplotlib**|**1.5.1**
@@ -46,3 +47,4 @@ toolz|0.8.0|tornado|4.4.1|traitlets|4.2.2
 wcwidth|0.1.7|werkzeug|0.11.10|wheel|0.29.0
 xz|5.2.2|yaml|0.1.6|zeromq|4.1.4
 zlib|1.2.8|
+
