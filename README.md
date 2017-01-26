@@ -54,3 +54,4 @@ toolz|0.8.2|tornado|4.4.2|traitlets|4.3.1
 wcwidth|0.1.7|werkzeug|0.11.15|wheel|0.29.0
 widgetsnbextension|1.2.6|xz|5.2.2|yaml|0.1.6
 zeromq|4.1.5|zlib|1.2.8|
+ 
