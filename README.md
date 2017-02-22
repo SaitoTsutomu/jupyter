@@ -1,4 +1,4 @@
-Jupyter(IPython Notebook) by python3.5 and scientific packages. [![](https://badge.imagelayers.io/tsutomu7/jupyter:latest.svg)](https://imagelayers.io/?images=tsutomu7/jupyter:latest)
+Jupyter(IPython Notebook) by python3.6 and scientific packages. [![](https://badge.imagelayers.io/tsutomu7/jupyter:latest.svg)](https://imagelayers.io/?images=tsutomu7/jupyter:latest)
 ======
 
 - Japanese font installed. (Use "plt.rcParams['font.family'] = 'IPAexGothic'")
